@@ -225,7 +225,7 @@ GameObject:
   - component: {fileID: 1275533545}
   - component: {fileID: 1275533544}
   m_Layer: 0
-  m_Name: Random capsule lo
+  m_Name: big big lmao
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -292,8 +292,8 @@ Transform:
   m_GameObject: {fileID: 1275533543}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 2.3458, y: 1.7755, z: 0}
+  m_LocalScale: {x: 5.6916, y: 2.7755, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
